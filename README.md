@@ -14,6 +14,10 @@
     limitations under the License.
 -->
 
+# @See also
+
+https://hub.docker.com/r/beakernotebook/beaker/
+
 #Beaker - the data scientist's laboratory
 
 Beaker is a code notebook that allows you to analyze, visualize, and document data using multiple programming languages. Beaker's plugin-based polyglot architecture enables you to seamlessly switch between languages in your documents and add support for your favorite languages that we've missed.
